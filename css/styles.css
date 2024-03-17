@@ -47,8 +47,9 @@ a {
 }
 
 .container {
-  max-width: 320px;
-  padding: 0 16px;
+  max-width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin: 0 auto;
 }
 
@@ -62,8 +63,8 @@ a {
 }
 .header-container {
   display: flex;
+  width: 1158px;
   align-items: center;
-  justify-content: space-between;
 }
 .header-navigation {
   display: flex;
